@@ -1,7 +1,12 @@
-A
-B
-C
-D
-E
-FATUR
-G
+Kumpulan Materi MSIB 6
+- HTML dan CSS
+- Github
+- UI/UX
+- Javascript
+- Php
+- Laravel
+- MySQL 
+- Rest API
+- Consum API
+- Belajar Bersama
+// git add untuk menambahkan file
